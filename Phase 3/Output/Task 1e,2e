@@ -1,0 +1,20 @@
+Give User Id: 80030
+Rank	Movie Id	Movie Name
+
+1 :	 10067 		 American Gangster
+2 :	 9777 		 Smokin' Aces
+3 :	 10125 		 There Will Be Blood
+4 :	 7938 		 King Arthur
+5 :	 9855 		 Sunshine
+Relevant Movies = 1,3,4
+Irrelevant Movies = 2,5
+Revised Results:
+
+Rank	Movie Id	Movie Name
+
+1 :	 9713 		 10 Items or Less
+2 :	 10211 		 Then She Found Me
+3 :	 9816 		 Zodiac
+4 :	 9922 		 Rescue Dawn
+5 :	 9644 		 Gridiron Gang
+

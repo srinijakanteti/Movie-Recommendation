@@ -1,0 +1,42 @@
+Using mxnet backend.
+Using numpy backend.
+(4323, 4323)
+Enter number of layers:3
+Enter number of hashes per layer:5
+Enter number of neighbours:9
+Enter query movieid:10030
+query =  ['10030']
+L2
+L	k	acc	touch
+Number of Unique movies : 17
+Number of Unique movies : 10
+Number of Unique movies : 21
+ser no.	movieIds	movieNames
+1 	 2892 		 ('Bringing Out the Dead',)
+2 	 3943 		 ('Traffic',)
+3 	 8741 		 ('Layer Cake',)
+4 	 3858 		 ('Requiem for a Dream',)
+5 	 9598 		 ('Half Nelson',)
+6 	 9339 		 ('Rent',)
+7 	 438 		 ('Dazed and Confused',)
+8 	 2513 		 ('SLC Punk!',)
+9 	 7668 		 ('Rush',)
+ranks =  ['2892', '3943', '8741', '3858', '9598', '9339', '438', '2513', '7668']
+Relevant Movies = 1,2,5,7
+Irrelevant Movies = 4
+L2
+L	k	acc	touch
+Number of Unique movies : 27
+Number of Unique movies : 19
+Number of Unique movies : 18
+ser no.	movieIds	movieNames
+1 	 2892 		 ('Bringing Out the Dead',)
+2 	 9339 		 ('Rent',)
+3 	 3943 		 ('Traffic',)
+4 	 8741 		 ('Layer Cake',)
+5 	 3858 		 ('Requiem for a Dream',)
+6 	 2513 		 ('SLC Punk!',)
+7 	 9598 		 ('Half Nelson',)
+8 	 438 		 ('Dazed and Confused',)
+9 	 3628 		 ('Fatal Beauty',)
+
